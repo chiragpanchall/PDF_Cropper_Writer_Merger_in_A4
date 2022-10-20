@@ -6,5 +6,6 @@
 ### 3.It Crop the all pages in merged PDF file according to dimensions.
 ### 4.Set all pages in Single A4 pages (upto 4 pages in single page).
 
+### Python library : PyPDF2, PIL, pdfrw with GUI powered by Tkinter python
 
 ## It is the one of most useful project in printing press machine to reduce cost of paper.
